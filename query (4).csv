@@ -1,0 +1,39 @@
+virus,virusLabel,host,hostLabel
+http://www.wikidata.org/entity/Q12199,AIDS,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q12206,Diabetes mellitus,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q124407,Typ-1-Diabetes,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q127724,Katarakt,http://www.wikidata.org/entity/Q152,Fisch
+http://www.wikidata.org/entity/Q127724,Katarakt,http://www.wikidata.org/entity/Q5113,Vögel
+http://www.wikidata.org/entity/Q127724,Katarakt,http://www.wikidata.org/entity/Q7377,Säugetiere
+http://www.wikidata.org/entity/Q127724,Katarakt,http://www.wikidata.org/entity/Q10811,Reptilien
+http://www.wikidata.org/entity/Q127724,Katarakt,http://www.wikidata.org/entity/Q25241,Wirbeltiere
+http://www.wikidata.org/entity/Q127724,Katarakt,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q153861,Tularämie,http://www.wikidata.org/entity/Q146,Hauskatze
+http://www.wikidata.org/entity/Q153861,Tularämie,http://www.wikidata.org/entity/Q726,Hauspferd
+http://www.wikidata.org/entity/Q153861,Tularämie,http://www.wikidata.org/entity/Q7368,Hausschaf
+http://www.wikidata.org/entity/Q153861,Tularämie,http://www.wikidata.org/entity/Q46076,Echte Hasen
+http://www.wikidata.org/entity/Q153861,Tularämie,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q153861,Tularämie,http://www.wikidata.org/entity/Q26972265,Canis lupus familiaris
+http://www.wikidata.org/entity/Q220551,Diabetes insipidus,http://www.wikidata.org/entity/Q7377,Säugetiere
+http://www.wikidata.org/entity/Q220551,Diabetes insipidus,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q403463,Aicardi-Syndrom,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q635195,Polydipsie,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q929963,primary polydipsia,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q1124286,Polyurie,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q1153641,DIDMOAD-Syndrom,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q1286499,Hausstauballergie,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q1426443,Nykturie,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q1641429,Hyposthenurie,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q2892779,Diabetes insipidus renalis,http://www.wikidata.org/entity/Q7377,Säugetiere
+http://www.wikidata.org/entity/Q2892779,Diabetes insipidus renalis,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q3025883,Typ-2-Diabetes,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q12412172,central diabetes insipidus,http://www.wikidata.org/entity/Q7377,Säugetiere
+http://www.wikidata.org/entity/Q12412172,central diabetes insipidus,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q15974799,polyuric-polydipsic syndrome,http://www.wikidata.org/entity/Q7377,Säugetiere
+http://www.wikidata.org/entity/Q15974799,polyuric-polydipsic syndrome,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q18556697,HIV-Krankeit,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q28024764,Wolfram syndrome 1,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q28024765,Wolfram syndrome 2,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q55790157,dipsogenic diabetes insipidus,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q55790286,gestational diabetes insipidus,http://www.wikidata.org/entity/Q15978631,Homo sapiens
+http://www.wikidata.org/entity/Q85438966,SARS-CoV,http://www.wikidata.org/entity/Q15978631,Homo sapiens
