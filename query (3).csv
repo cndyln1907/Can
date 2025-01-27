@@ -1,0 +1,227 @@
+virus,virusLabel,rankLabel,parent,parentLabel
+http://www.wikidata.org/entity/Q176610,Torovirus,Gattung,http://www.wikidata.org/entity/Q1134583,Coronaviridae
+http://www.wikidata.org/entity/Q176610,Torovirus,Gattung,http://www.wikidata.org/entity/Q16880647,Torovirinae
+http://www.wikidata.org/entity/Q278567,Severe acute respiratory syndrome-related coronavirus,Art,http://www.wikidata.org/entity/Q16532287,Betacoronavirus
+http://www.wikidata.org/entity/Q278567,Severe acute respiratory syndrome-related coronavirus,Art,http://www.wikidata.org/entity/Q57754693,Sarbecovirus
+http://www.wikidata.org/entity/Q290805,Coronavirus,Gattung,http://www.wikidata.org/entity/Q1134583,Coronaviridae
+http://www.wikidata.org/entity/Q454829,Feline coronavirus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q2117529,Puffinosis coronavirus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q2132904,Rat coronavirus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q3560916,Avian infectious bronchitis virus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q4902157,MERS-CoV,Art,http://www.wikidata.org/entity/Q16532287,Betacoronavirus
+http://www.wikidata.org/entity/Q4902157,MERS-CoV,Art,http://www.wikidata.org/entity/Q57754679,Merbecovirus
+http://www.wikidata.org/entity/Q4950554,Bovine coronavirus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q5032409,Canines coronavirus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q6926073,Murine hepatitis virus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q7834605,Transmissible gastroenteritis virus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q7855142,Turkey coronavirus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q8351095,Human coronavirus NL63,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q8351095,Human coronavirus NL63,Art,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q8351095,Human coronavirus NL63,Art,http://www.wikidata.org/entity/Q57754656,Setracovirus
+http://www.wikidata.org/entity/Q15233924,Coronavirinae,Unterfamilie,http://www.wikidata.org/entity/Q1134583,Coronaviridae
+http://www.wikidata.org/entity/Q16023751,Porcine epidemic diarrhea virus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q16023751,Porcine epidemic diarrhea virus,Art,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q16023751,Porcine epidemic diarrhea virus,Art,http://www.wikidata.org/entity/Q57754639,Pedacovirus
+http://www.wikidata.org/entity/Q16532287,Betacoronavirus,Gattung,http://www.wikidata.org/entity/Q57751738,Orthocoronavirinae
+http://www.wikidata.org/entity/Q16836881,Bafinivirus,Gattung,http://www.wikidata.org/entity/Q16880647,Torovirinae
+http://www.wikidata.org/entity/Q16836881,Bafinivirus,Gattung,http://www.wikidata.org/entity/Q57773911,Piscanivirinae
+http://www.wikidata.org/entity/Q16848886,Bulbul coronavirus HKU11,Art,http://www.wikidata.org/entity/Q16955738,Deltacoronavirus
+http://www.wikidata.org/entity/Q16848886,Bulbul coronavirus HKU11,Art,http://www.wikidata.org/entity/Q57754709,Buldecovirus
+http://www.wikidata.org/entity/Q16880647,Torovirinae,Unterfamilie,http://www.wikidata.org/entity/Q1134583,Coronaviridae
+http://www.wikidata.org/entity/Q16880647,Torovirinae,Unterfamilie,http://www.wikidata.org/entity/Q57751125,Tobaniviridae
+http://www.wikidata.org/entity/Q16908525,Alphacoronavirus,Gattung,http://www.wikidata.org/entity/Q57751738,Orthocoronavirinae
+http://www.wikidata.org/entity/Q16955738,Deltacoronavirus,Gattung,http://www.wikidata.org/entity/Q57751738,Orthocoronavirinae
+http://www.wikidata.org/entity/Q16977225,Gammacoronavirus,Gattung,http://www.wikidata.org/entity/Q57751738,Orthocoronavirinae
+http://www.wikidata.org/entity/Q16978701,White bream virus,Art,http://www.wikidata.org/entity/Q16836881,Bafinivirus
+http://www.wikidata.org/entity/Q16978701,White bream virus,Art,http://www.wikidata.org/entity/Q57754800,Blicbavirus
+http://www.wikidata.org/entity/Q16983356,Human coronavirus 229E,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q16983356,Human coronavirus 229E,Art,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q16983356,Human coronavirus 229E,Art,http://www.wikidata.org/entity/Q57754596,Duvinacovirus
+http://www.wikidata.org/entity/Q16983360,Human coronavirus HKU1,Art,http://www.wikidata.org/entity/Q16532287,Betacoronavirus
+http://www.wikidata.org/entity/Q16983360,Human coronavirus HKU1,Art,http://www.wikidata.org/entity/Q57754667,Embecovirus
+http://www.wikidata.org/entity/Q16985780,Miniopterus bat coronavirus 1,Art,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q16985780,Miniopterus bat coronavirus 1,Art,http://www.wikidata.org/entity/Q57754617,Minunacovirus
+http://www.wikidata.org/entity/Q16985784,Miniopterus bat coronavirus HKU8,Art,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q16985784,Miniopterus bat coronavirus HKU8,Art,http://www.wikidata.org/entity/Q57754617,Minunacovirus
+http://www.wikidata.org/entity/Q16988144,Pipistrellus bat coronavirus HKU5,Art,http://www.wikidata.org/entity/Q16532287,Betacoronavirus
+http://www.wikidata.org/entity/Q16988144,Pipistrellus bat coronavirus HKU5,Art,http://www.wikidata.org/entity/Q57754679,Merbecovirus
+http://www.wikidata.org/entity/Q16989092,Rhinolophus bat coronavirus HKU2,Art,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q16989092,Rhinolophus bat coronavirus HKU2,Art,http://www.wikidata.org/entity/Q57754648,Rhinacovirus
+http://www.wikidata.org/entity/Q16991954,Human coronavirus OC43,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q16992344,Rousettus bat coronavirus HKU9,Art,http://www.wikidata.org/entity/Q16532287,Betacoronavirus
+http://www.wikidata.org/entity/Q16992344,Rousettus bat coronavirus HKU9,Art,http://www.wikidata.org/entity/Q57754685,Nobecovirus
+http://www.wikidata.org/entity/Q16992475,Scotophilus bat coronavirus 512,Art,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q16992475,Scotophilus bat coronavirus 512,Art,http://www.wikidata.org/entity/Q57754639,Pedacovirus
+http://www.wikidata.org/entity/Q16993274,Tylonycteris bat coronavirus HKU4,Art,http://www.wikidata.org/entity/Q16532287,Betacoronavirus
+http://www.wikidata.org/entity/Q16993274,Tylonycteris bat coronavirus HKU4,Art,http://www.wikidata.org/entity/Q57754679,Merbecovirus
+http://www.wikidata.org/entity/Q18907882,Murine coronavirus,Art,http://www.wikidata.org/entity/Q16532287,Betacoronavirus
+http://www.wikidata.org/entity/Q18907882,Murine coronavirus,Art,http://www.wikidata.org/entity/Q57754667,Embecovirus
+http://www.wikidata.org/entity/Q18965331,Alphacoronavirus 1,Art,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q18965331,Alphacoronavirus 1,Art,http://www.wikidata.org/entity/Q57754662,Tegacovirus
+http://www.wikidata.org/entity/Q18965332,Betacoronavirus 1,Art,http://www.wikidata.org/entity/Q16532287,Betacoronavirus
+http://www.wikidata.org/entity/Q18965332,Betacoronavirus 1,Art,http://www.wikidata.org/entity/Q57754667,Embecovirus
+http://www.wikidata.org/entity/Q18965337,Bovine torovirus,Art,http://www.wikidata.org/entity/Q176610,Torovirus
+http://www.wikidata.org/entity/Q18965337,Bovine torovirus,Art,http://www.wikidata.org/entity/Q57754811,Renitovirus
+http://www.wikidata.org/entity/Q18965338,Equine torovirus,Art,http://www.wikidata.org/entity/Q176610,Torovirus
+http://www.wikidata.org/entity/Q18965338,Equine torovirus,Art,http://www.wikidata.org/entity/Q57754811,Renitovirus
+http://www.wikidata.org/entity/Q18965341,Human torovirus,Art,http://www.wikidata.org/entity/Q176610,Torovirus
+http://www.wikidata.org/entity/Q18965342,Porcine torovirus,Art,http://www.wikidata.org/entity/Q176610,Torovirus
+http://www.wikidata.org/entity/Q18965342,Porcine torovirus,Art,http://www.wikidata.org/entity/Q57754811,Renitovirus
+http://www.wikidata.org/entity/Q22103916,Pigeon coronavirus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q24808936,Bat coronavirus CDPHE15,Art,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q24808936,Bat coronavirus CDPHE15,Art,http://www.wikidata.org/entity/Q57754582,Colacovirus
+http://www.wikidata.org/entity/Q24808938,Bat coronavirus HKU10,Art,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q24808938,Bat coronavirus HKU10,Art,http://www.wikidata.org/entity/Q57754588,Decacovirus
+http://www.wikidata.org/entity/Q24808939,Mink coronavirus 1,Art,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q24808939,Mink coronavirus 1,Art,http://www.wikidata.org/entity/Q57754609,Minacovirus
+http://www.wikidata.org/entity/Q24808940,Hedgehog coronavirus 1,Art,http://www.wikidata.org/entity/Q16532287,Betacoronavirus
+http://www.wikidata.org/entity/Q24808940,Hedgehog coronavirus 1,Art,http://www.wikidata.org/entity/Q57754679,Merbecovirus
+http://www.wikidata.org/entity/Q24808949,Fathead minnow nidovirus 1,Art,http://www.wikidata.org/entity/Q16836881,Bafinivirus
+http://www.wikidata.org/entity/Q24808949,Fathead minnow nidovirus 1,Art,http://www.wikidata.org/entity/Q57754805,Pimfabavirus
+http://www.wikidata.org/entity/Q24808951,Ball python nidovirus 1,Art,http://www.wikidata.org/entity/Q16880647,Torovirinae
+http://www.wikidata.org/entity/Q24808951,Ball python nidovirus 1,Art,http://www.wikidata.org/entity/Q57919798,Roypretovirus
+http://www.wikidata.org/entity/Q29005281,Bovine nidovirus 1,Art,http://www.wikidata.org/entity/Q16880647,Torovirinae
+http://www.wikidata.org/entity/Q29005281,Bovine nidovirus 1,Art,http://www.wikidata.org/entity/Q57919784,Bosnitovirus
+http://www.wikidata.org/entity/Q29005294,Chinook salmon nidovirus 1,Art,http://www.wikidata.org/entity/Q16880647,Torovirinae
+http://www.wikidata.org/entity/Q29005294,Chinook salmon nidovirus 1,Art,http://www.wikidata.org/entity/Q57919774,Salnivirus
+http://www.wikidata.org/entity/Q57751727,Letovirinae,Unterfamilie,http://www.wikidata.org/entity/Q1134583,Coronaviridae
+http://www.wikidata.org/entity/Q57751738,Orthocoronavirinae,Unterfamilie,http://www.wikidata.org/entity/Q1134583,Coronaviridae
+http://www.wikidata.org/entity/Q57754582,Colacovirus,Untergattung,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q57754588,Decacovirus,Untergattung,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q57754596,Duvinacovirus,Untergattung,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q57754603,Luchacovirus,Untergattung,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q57754609,Minacovirus,Untergattung,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q57754617,Minunacovirus,Untergattung,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q57754626,Myotacovirus,Untergattung,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q57754632,Nyctacovirus,Untergattung,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q57754639,Pedacovirus,Untergattung,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q57754648,Rhinacovirus,Untergattung,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q57754656,Setracovirus,Untergattung,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q57754662,Tegacovirus,Untergattung,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q57754667,Embecovirus,Untergattung,http://www.wikidata.org/entity/Q16532287,Betacoronavirus
+http://www.wikidata.org/entity/Q57754671,Hibecovirus,Untergattung,http://www.wikidata.org/entity/Q16532287,Betacoronavirus
+http://www.wikidata.org/entity/Q57754679,Merbecovirus,Untergattung,http://www.wikidata.org/entity/Q16532287,Betacoronavirus
+http://www.wikidata.org/entity/Q57754685,Nobecovirus,Untergattung,http://www.wikidata.org/entity/Q16532287,Betacoronavirus
+http://www.wikidata.org/entity/Q57754693,Sarbecovirus,Untergattung,http://www.wikidata.org/entity/Q16532287,Betacoronavirus
+http://www.wikidata.org/entity/Q57754800,Blicbavirus,Untergattung,http://www.wikidata.org/entity/Q16836881,Bafinivirus
+http://www.wikidata.org/entity/Q57754805,Pimfabavirus,Untergattung,http://www.wikidata.org/entity/Q16836881,Bafinivirus
+http://www.wikidata.org/entity/Q57754811,Renitovirus,Untergattung,http://www.wikidata.org/entity/Q176610,Torovirus
+http://www.wikidata.org/entity/Q57773813,Alphaletovirus,Gattung,http://www.wikidata.org/entity/Q57751727,Letovirinae
+http://www.wikidata.org/entity/Q69459596,Infectious bronchitis virus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q70920421,Human enteric coronavirus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q70920495,Pheasant coronavirus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q70920517,Porcine hemagglutinating encephalomyelitis virus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q70920535,Severe acute respiratory syndrome coronavirus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q88161067,Murine coronavirus inf-MHV-A59,,http://www.wikidata.org/entity/Q6926073,Murine hepatitis virus
+http://www.wikidata.org/entity/Q90000426,Duck coronavirus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q90000701,Goose coronavirus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q90009636,Feline infectious peritonitis virus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q90017155,Equine coronavirus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q90025485,Human respiratory virus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q90025567,Mouse hepatitis virus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q90025579,Transmissible gastro-enteritis virus of swine,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q90026140,Calf neonatal diarrhea coronavirus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q90026748,Human coronavirus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q90027836,Porcine hemagglutinating encephalitis virus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q90028149,Porcine transmissible gastroenteritis virus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q90028469,Rat sialodacryoadentitis virus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q90028880,Turkey bluecomb disease virus,Art,http://www.wikidata.org/entity/Q290805,Coronavirus
+http://www.wikidata.org/entity/Q91513573,Erinaceus coronavirus,,http://www.wikidata.org/entity/Q16532287,Betacoronavirus
+http://www.wikidata.org/entity/Q91556617,Hp-BatCoV HKU25,,http://www.wikidata.org/entity/Q16532287,Betacoronavirus
+http://www.wikidata.org/entity/Q92050731,Soracovirus,Untergattung,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q92050762,Sunacovirus,Untergattung,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q116142376,Pitovirinae,Unterfamilie,http://www.wikidata.org/entity/Q1134583,Coronaviridae
+http://www.wikidata.org/entity/Q116148886,Alphapironavirus,Gattung,http://www.wikidata.org/entity/Q116142376,Pitovirinae
+http://www.wikidata.org/entity/Q116151578,Amalacovirus,Untergattung,http://www.wikidata.org/entity/Q16908525,Alphacoronavirus
+http://www.wikidata.org/entity/Q116151618,Bantovirus,Untergattung,http://www.wikidata.org/entity/Q176610,Torovirus
+http://www.wikidata.org/entity/Q16000326,Bat SARS-like coronavirus WIV1,,http://www.wikidata.org/entity/Q278567,Severe acute respiratory syndrome-related coronavirus
+http://www.wikidata.org/entity/Q16984813,London1_novel CoV 2012,,http://www.wikidata.org/entity/Q4902157,MERS-CoV
+http://www.wikidata.org/entity/Q16988426,Coronavirus HKU15,Art,http://www.wikidata.org/entity/Q16955738,Deltacoronavirus
+http://www.wikidata.org/entity/Q16988426,Coronavirus HKU15,Art,http://www.wikidata.org/entity/Q57754709,Buldecovirus
+http://www.wikidata.org/entity/Q18965333,Munia coronavirus HKU13,Art,http://www.wikidata.org/entity/Q16955738,Deltacoronavirus
+http://www.wikidata.org/entity/Q18965333,Munia coronavirus HKU13,Art,http://www.wikidata.org/entity/Q57754709,Buldecovirus
+http://www.wikidata.org/entity/Q18965334,Thrush coronavirus HKU12,Art,http://www.wikidata.org/entity/Q16955738,Deltacoronavirus
+http://www.wikidata.org/entity/Q18965335,Avian coronavirus,Art,http://www.wikidata.org/entity/Q16977225,Gammacoronavirus
+http://www.wikidata.org/entity/Q18965335,Avian coronavirus,Art,http://www.wikidata.org/entity/Q57754734,Igacovirus
+http://www.wikidata.org/entity/Q18965336,Beluga whale coronavirus SW1,Art,http://www.wikidata.org/entity/Q16977225,Gammacoronavirus
+http://www.wikidata.org/entity/Q18965336,Beluga whale coronavirus SW1,Art,http://www.wikidata.org/entity/Q57754725,Cegacovirus
+http://www.wikidata.org/entity/Q24808943,Common moorhen coronavirus HKU21,Art,http://www.wikidata.org/entity/Q16955738,Deltacoronavirus
+http://www.wikidata.org/entity/Q24808943,Common moorhen coronavirus HKU21,Art,http://www.wikidata.org/entity/Q57754709,Buldecovirus
+http://www.wikidata.org/entity/Q24808943,Common moorhen coronavirus HKU21,Art,http://www.wikidata.org/entity/Q57754718,Moordecovirus
+http://www.wikidata.org/entity/Q24808946,Night heron coronavirus HKU19,Art,http://www.wikidata.org/entity/Q16955738,Deltacoronavirus
+http://www.wikidata.org/entity/Q24808946,Night heron coronavirus HKU19,Art,http://www.wikidata.org/entity/Q57754714,Herdecovirus
+http://www.wikidata.org/entity/Q24808947,White-eye coronavirus HKU16,Art,http://www.wikidata.org/entity/Q16955738,Deltacoronavirus
+http://www.wikidata.org/entity/Q24808947,White-eye coronavirus HKU16,Art,http://www.wikidata.org/entity/Q57754709,Buldecovirus
+http://www.wikidata.org/entity/Q24808948,Wigeon coronavirus HKU20,Art,http://www.wikidata.org/entity/Q16955738,Deltacoronavirus
+http://www.wikidata.org/entity/Q24808948,Wigeon coronavirus HKU20,Art,http://www.wikidata.org/entity/Q57754699,Andecovirus
+http://www.wikidata.org/entity/Q55643348,SADS,,http://www.wikidata.org/entity/Q57754648,Rhinacovirus
+http://www.wikidata.org/entity/Q57754699,Andecovirus,Untergattung,http://www.wikidata.org/entity/Q16955738,Deltacoronavirus
+http://www.wikidata.org/entity/Q57754709,Buldecovirus,Untergattung,http://www.wikidata.org/entity/Q16955738,Deltacoronavirus
+http://www.wikidata.org/entity/Q57754714,Herdecovirus,Untergattung,http://www.wikidata.org/entity/Q16955738,Deltacoronavirus
+http://www.wikidata.org/entity/Q57754718,Moordecovirus,Untergattung,http://www.wikidata.org/entity/Q16955738,Deltacoronavirus
+http://www.wikidata.org/entity/Q57754725,Cegacovirus,Untergattung,http://www.wikidata.org/entity/Q16977225,Gammacoronavirus
+http://www.wikidata.org/entity/Q57754734,Igacovirus,Untergattung,http://www.wikidata.org/entity/Q16977225,Gammacoronavirus
+http://www.wikidata.org/entity/Q57758320,Rhinolophus ferrumequinum alphacoronavirus HuB-2013,Art,http://www.wikidata.org/entity/Q57754588,Decacovirus
+http://www.wikidata.org/entity/Q57758326,Myotis ricketti alphacoronavirus Sax-2011,Art,http://www.wikidata.org/entity/Q57754626,Myotacovirus
+http://www.wikidata.org/entity/Q57758332,Nyctalus velutinus alphacoronavirus SC-2013,Art,http://www.wikidata.org/entity/Q57754632,Nyctacovirus
+http://www.wikidata.org/entity/Q57758339,Bat Hp-betacoronavirus Zhejiang2013,Art,http://www.wikidata.org/entity/Q57754671,Hibecovirus
+http://www.wikidata.org/entity/Q57773819,Lucheng Rn rat coronavirus,Art,http://www.wikidata.org/entity/Q57754603,Luchacovirus
+http://www.wikidata.org/entity/Q57773822,Ferret coronavirus,Art,http://www.wikidata.org/entity/Q57754609,Minacovirus
+http://www.wikidata.org/entity/Q57773827,NL63-related bat coronavirus strain BtKYNL63-9b,Art,http://www.wikidata.org/entity/Q57754656,Setracovirus
+http://www.wikidata.org/entity/Q57773834,China Rattus coronavirus HKU24,Art,http://www.wikidata.org/entity/Q57754667,Embecovirus
+http://www.wikidata.org/entity/Q57879935,Rousettus bat coronavirus GCCDC1,Art,http://www.wikidata.org/entity/Q57754685,Nobecovirus
+http://www.wikidata.org/entity/Q57919664,Milecovirus,Untergattung,http://www.wikidata.org/entity/Q57773813,Alphaletovirus
+http://www.wikidata.org/entity/Q70627740,Microhyla letovirus 1,Art,http://www.wikidata.org/entity/Q57919664,Milecovirus
+http://www.wikidata.org/entity/Q82069695,SARS-CoV-2,Art,http://www.wikidata.org/entity/Q57754693,Sarbecovirus
+http://www.wikidata.org/entity/Q85438966,SARS-CoV,,http://www.wikidata.org/entity/Q278567,Severe acute respiratory syndrome-related coronavirus
+http://www.wikidata.org/entity/Q85939995,Bat SARS-like coronavirus RsSHC014,,http://www.wikidata.org/entity/Q278567,Severe acute respiratory syndrome-related coronavirus
+http://www.wikidata.org/entity/Q88162038,Bat SARS coronavirus Rp1,,http://www.wikidata.org/entity/Q278567,Severe acute respiratory syndrome-related coronavirus
+http://www.wikidata.org/entity/Q88169973,SARS coronavirus B024,,http://www.wikidata.org/entity/Q278567,Severe acute respiratory syndrome-related coronavirus
+http://www.wikidata.org/entity/Q88383088,Human coronavirus HKU1,,http://www.wikidata.org/entity/Q16983360,Human coronavirus HKU1
+http://www.wikidata.org/entity/Q89160148,Rabbit Coronavirus HKU14,,http://www.wikidata.org/entity/Q57754667,Embecovirus
+http://www.wikidata.org/entity/Q91516543,Cetacean coronavirus,Art,http://www.wikidata.org/entity/Q16977225,Gammacoronavirus
+http://www.wikidata.org/entity/Q91554349,Quail coronavirus UAE-HKU30,Art,http://www.wikidata.org/entity/Q57754709,Buldecovirus
+http://www.wikidata.org/entity/Q91554593,sparrow coronavirus HKU17,Art,http://www.wikidata.org/entity/Q16955738,Deltacoronavirus
+http://www.wikidata.org/entity/Q91555774,FalCoV UAE-HKU27,Art,http://www.wikidata.org/entity/Q57754709,Buldecovirus
+http://www.wikidata.org/entity/Q91556001,Coronavirus Neoromicia/PML-PHE1/RSA/2011,,http://www.wikidata.org/entity/Q4902157,MERS-CoV
+http://www.wikidata.org/entity/Q91556362,Erinaceus hedgehog coronavirus HKU31,Art,http://www.wikidata.org/entity/Q57754679,Merbecovirus
+http://www.wikidata.org/entity/Q91559255,Tylonycteris bat coronavirus HKU33,,http://www.wikidata.org/entity/Q116167178,Alphacoronavirus HKU33
+http://www.wikidata.org/entity/Q91560228,Rhinolophus bat coronavirus HKU32,Art,http://www.wikidata.org/entity/Q57754588,Decacovirus
+http://www.wikidata.org/entity/Q91560702,Rousettus bat coronavirus HKU10,Art,http://www.wikidata.org/entity/Q57754588,Decacovirus
+http://www.wikidata.org/entity/Q91561236,Bat coronavirus RaTG13,,http://www.wikidata.org/entity/Q278567,Severe acute respiratory syndrome-related coronavirus
+http://www.wikidata.org/entity/Q92050800,Brangacovirus,Untergattung,http://www.wikidata.org/entity/Q16977225,Gammacoronavirus
+http://www.wikidata.org/entity/Q92109366,Pipistrellus kuhlii coronavirus 3398,Art,http://www.wikidata.org/entity/Q57754632,Nyctacovirus
+http://www.wikidata.org/entity/Q92109416,Sorex araneus coronavirus T14,Art,http://www.wikidata.org/entity/Q92050731,Soracovirus
+http://www.wikidata.org/entity/Q92109468,Suncus murinus coronavirus X74,Art,http://www.wikidata.org/entity/Q92050762,Sunacovirus
+http://www.wikidata.org/entity/Q92109519,Myodes coronavirus 2JL14,Art,http://www.wikidata.org/entity/Q57754667,Embecovirus
+http://www.wikidata.org/entity/Q92109575,Eidolon bat coronavirus C704,Art,http://www.wikidata.org/entity/Q57754685,Nobecovirus
+http://www.wikidata.org/entity/Q92109633,Goose coronavirus CB17,Art,http://www.wikidata.org/entity/Q92050800,Brangacovirus
+http://www.wikidata.org/entity/Q92109690,Avian coronavirus 9203,Art,http://www.wikidata.org/entity/Q57754734,Igacovirus
+http://www.wikidata.org/entity/Q92109737,Duck coronavirus 2714,Art,http://www.wikidata.org/entity/Q57754734,Igacovirus
+http://www.wikidata.org/entity/Q97709258,Bat SARS CoV Rf1/2004,Art,http://www.wikidata.org/entity/Q278567,Severe acute respiratory syndrome-related coronavirus
+http://www.wikidata.org/entity/Q97709416,Bat SARS CoV Rm1/2004,Art,http://www.wikidata.org/entity/Q278567,Severe acute respiratory syndrome-related coronavirus
+http://www.wikidata.org/entity/Q97709493,Bat SARS CoV Rp3/2004,Art,http://www.wikidata.org/entity/Q278567,Severe acute respiratory syndrome-related coronavirus
+http://www.wikidata.org/entity/Q104450895,Varianten von SARS-CoV2,,http://www.wikidata.org/entity/Q82069695,SARS-CoV-2
+http://www.wikidata.org/entity/Q104857014,RmYN02,,http://www.wikidata.org/entity/Q278567,Severe acute respiratory syndrome-related coronavirus
+http://www.wikidata.org/entity/Q105221659,Civet SARS-CoV,,http://www.wikidata.org/entity/Q278567,Severe acute respiratory syndrome-related coronavirus
+http://www.wikidata.org/entity/Q105686530,RacCS203,,http://www.wikidata.org/entity/Q278567,Severe acute respiratory syndrome-related coronavirus
+http://www.wikidata.org/entity/Q105759568,Rc-o319,,http://www.wikidata.org/entity/Q278567,Severe acute respiratory syndrome-related coronavirus
+http://www.wikidata.org/entity/Q105759613,16BO133,Stamm,http://www.wikidata.org/entity/Q278567,Severe acute respiratory syndrome-related coronavirus
+http://www.wikidata.org/entity/Q105759618,BtKY72,,http://www.wikidata.org/entity/Q278567,Severe acute respiratory syndrome-related coronavirus
+http://www.wikidata.org/entity/Q105759623,BM48-31,,http://www.wikidata.org/entity/Q278567,Severe acute respiratory syndrome-related coronavirus
+http://www.wikidata.org/entity/Q106918177,Canine coronavirus HuPn-2018,Art,http://www.wikidata.org/entity/Q57754662,Tegacovirus
+http://www.wikidata.org/entity/Q107248454,RpYN06,,http://www.wikidata.org/entity/Q278567,Severe acute respiratory syndrome-related coronavirus
+http://www.wikidata.org/entity/Q107719644,RhGB01,,http://www.wikidata.org/entity/Q278567,Severe acute respiratory syndrome-related coronavirus
+http://www.wikidata.org/entity/Q108616377,BANAL-52,,http://www.wikidata.org/entity/Q278567,Severe acute respiratory syndrome-related coronavirus
+http://www.wikidata.org/entity/Q108616505,BANAL-103,,http://www.wikidata.org/entity/Q278567,Severe acute respiratory syndrome-related coronavirus
+http://www.wikidata.org/entity/Q116151586,Samovirus,Untergattung,http://www.wikidata.org/entity/Q116148886,Alphapironavirus
+http://www.wikidata.org/entity/Q116167171,Alphacoronavirus AMALF,Art,http://www.wikidata.org/entity/Q116151578,Amalacovirus
+http://www.wikidata.org/entity/Q116167173,Alphacoronavirus CHB25,Art,http://www.wikidata.org/entity/Q57754588,Decacovirus
+http://www.wikidata.org/entity/Q116167175,Alphacoronavirus WA3607,Art,http://www.wikidata.org/entity/Q57754588,Decacovirus
+http://www.wikidata.org/entity/Q116167178,Alphacoronavirus HKU33,Art,http://www.wikidata.org/entity/Q57754632,Nyctacovirus
+http://www.wikidata.org/entity/Q116167181,Alphacoronavirus WA2028,Art,http://www.wikidata.org/entity/Q57754632,Nyctacovirus
+http://www.wikidata.org/entity/Q116167182,Alphacoronavirus BT020,Art,http://www.wikidata.org/entity/Q57754639,Pedacovirus
+http://www.wikidata.org/entity/Q116167183,Alphacoronavirus WA1087,Art,http://www.wikidata.org/entity/Q57754639,Pedacovirus
+http://www.wikidata.org/entity/Q116167191,Alphapironavirus bona,Art,http://www.wikidata.org/entity/Q116151586,Samovirus
+http://www.wikidata.org/entity/Q116167215,Torovirus banli,Art,http://www.wikidata.org/entity/Q116151618,Bantovirus
+http://www.wikidata.org/entity/Q123562955,TyRo-CoV-162275,Stamm,http://www.wikidata.org/entity/Q16993274,Tylonycteris bat coronavirus HKU4
